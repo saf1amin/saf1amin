@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @saf1amin
--  I’m interested in Programming
--  I’m currently learning C Programming Language
+
 
 
 <!---
